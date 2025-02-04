@@ -1,0 +1,31 @@
+#button1{
+    background-color:aquamarine;
+    border:none;
+    color:darkblue;
+    border-radius:10px;
+    padding:10px 20px;
+    display:inline-block;
+    margin:6px 20px;
+}
+#button2{
+    background-color:rgb(235, 177, 235);
+    color:rgb(28, 29, 28);
+    border: 2.5px dashed black;
+    padding:15px 60px;
+    border-radius:30px;
+    margin:40px;
+    text-transform:uppercase;
+}
+#button2:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+}
+#button3{
+    color:black;
+    background-color:aquamarine;
+    padding:20px 30px;
+    text-align:center;
+    border-radius:15px;
+    border:none;
+    
+}
